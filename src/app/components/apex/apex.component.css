@@ -1,0 +1,7 @@
+.example-card {
+    max-width: 400px;
+  }
+  .example-header-image-assets{
+    background-image: url("https://source.unsplash.com/400x200/?hardware,assets");
+    background-size: cover;
+  }

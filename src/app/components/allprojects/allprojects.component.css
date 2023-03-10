@@ -1,0 +1,27 @@
+.example-card {
+    max-width: 400px;
+  }
+  
+
+  .example-header-image-pos {
+    background-image: url("https://source.unsplash.com/400x200/?restaurant");
+    background-size: cover;
+  }
+
+
+  .example-header-image {
+    background-image: url("https://source.unsplash.com/400x200/?quiz,exam,school");
+    background-size: cover;
+  }
+
+  .example-header-image-assets{
+    background-image: url("https://source.unsplash.com/400x200/?hardware,assets");
+    background-size: cover;
+  }
+
+  .example-header-image-assets-true{
+    background-image: url("https://source.unsplash.com/400x200/?medical");
+    background-size: cover;
+  }
+
+

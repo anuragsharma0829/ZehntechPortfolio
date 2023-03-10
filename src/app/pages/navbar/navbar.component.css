@@ -1,0 +1,17 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .ml3{
+    margin-right: 28px;
+  }
+  .home{
+    color: rgb(128, 4, 55)
+  }
+  .black{
+    background-color: black;
+    color: white;
+  }
+  .blue{
+    background-color: red;
+    color: red;
+  }

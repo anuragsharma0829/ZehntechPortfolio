@@ -1,0 +1,42 @@
+.contact{
+    color:white;
+    font-size: 40px;
+    margin-bottom:80px
+}
+.container-fluid{
+    background-color:black;
+    height: 100vh;
+}
+.question{
+    color: rgba(15, 185, 190, 0.5);
+    font-size: 30px;
+}
+.hr{
+    color:rgb(235, 232, 228);
+    height: 45px;
+}
+.full-width{
+    width: 100%;
+    opacity: .5px;
+    color: rgb(10, 9, 9);
+    background-color: black;
+}
+.card{
+    background-color: black;
+}
+
+
+.btn1{
+    width: 100px;
+   
+}
+.angular-editor-wrapper {
+    height: 300px; 
+  }
+
+  p {
+    font-family: Lato;
+  }
+  .ck-editor__editable_inline {
+    min-height: 900px;
+}

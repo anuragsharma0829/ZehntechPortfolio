@@ -1,0 +1,45 @@
+<div class="container">
+    <div class="text-center mt-5">
+        <h1 class="project"><b>PROJECTS</b></h1>
+        <hr>
+    </div>
+
+    <!-- <div class="container-fluid text-center">
+        <div class="row mt-lg-4">
+             <div class="col-md-3">
+                <button class="btns" routerLink="/all" mat-raised-button>ALL</button>
+            </div>
+             <div class="col-md-3">
+                <button class="btns" routerLink="/angular" mat-raised-button>ANGULAR</button>
+            </div>
+             <div class="col-md-3">
+                <button class="btns" routerLink="/js" mat-raised-button>JAVASCRIPT</button>
+             </div>
+             <div class="col-md-3">
+                <button class="btns" routerLink="/apex" mat-raised-button>ORACLE APEX</button>
+             </div>
+        </div>
+    </div> -->
+    <mat-tab-group>
+
+        <mat-tab label="ALL">
+            <app-allprojects></app-allprojects>
+        </mat-tab>
+
+        <mat-tab label="ANGULAR/SPRING BOOT">
+            <app-angular></app-angular>
+        </mat-tab>
+
+        <mat-tab label="JAVASCRIPT">
+            <app-java-script></app-java-script>
+        </mat-tab>
+
+        <mat-tab label="ORACLE APEX">
+            <app-apex></app-apex>
+        </mat-tab>
+
+    </mat-tab-group>
+
+
+
+</div>
